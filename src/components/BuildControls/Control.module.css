@@ -1,0 +1,26 @@
+.Control {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  width: 7rem;
+  margin: auto;
+}
+
+.Add {
+  background: rgb(20, 77, 30);
+  border-radius: .35rem;
+  color: white;
+  /* margin: auto; */
+  margin-bottom : .2rem;
+  padding: .2rem;
+  width: 5rem;
+}
+
+.Subtract {
+  background: rgb(255, 0, 0);
+  border-radius: .35rem;
+  color: white;
+  margin: auto;
+  padding: .2rem;
+  width: 5rem;
+}
