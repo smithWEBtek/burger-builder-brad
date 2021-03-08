@@ -7,20 +7,42 @@
 }
 
 .Add {
-  background: rgb(20, 77, 30);
   border-radius: .35rem;
   color: white;
-  /* margin: auto; */
   margin-bottom : .2rem;
   padding: .2rem;
   width: 5rem;
 }
 
 .Subtract {
-  background: rgb(255, 0, 0);
+  background: rgb(240, 11, 11);
   border-radius: .35rem;
   color: white;
   margin: auto;
   padding: .2rem;
+  width: 5rem;
+}
+
+.Meat {
+  background: linear-gradient(#7f3608, #702e05);
+  border-radius: .35rem;
+  width: 5rem;
+}
+
+.Cheese {
+  background: linear-gradient(#f4d004, #d6bb22);
+  border-radius: .35rem;
+  width: 5rem;
+}
+
+.Salad {
+  background: linear-gradient(#228c1d, #91ce50);
+  border-radius: .35rem;
+  width: 5rem;
+}
+
+.Bacon {
+  background: linear-gradient(#bf3813, #c45e38);
+  border-radius: .35rem;
   width: 5rem;
 }
